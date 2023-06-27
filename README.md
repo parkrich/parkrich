@@ -7,7 +7,7 @@
   - [osTicket: Creating Help Desk Environment](https://github.com/parkrich/post-install-config)
   - [osTicket: Creating and Resolving Tickets](https://github.com/parkrich/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/parkrich/configure-ad)
+  - [Configuring Active Directory within Azure VMs](https://github.com/parkrich/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/parkrich/azure-network-protocols)
 
 <h2>🤳Connect with me on LinkedIn:</h2>
